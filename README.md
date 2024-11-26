@@ -19,7 +19,7 @@ Welcome to the **Assembly Guide**! This repository is dedicated to sharing knowl
 To get started with this repository, clone it to your local machine:
 
 ```bash
-    git clone https://github.com/your-username/Assembly_Guide.git
+git clone https://github.com/your-username/Assembly_Guide.git
 ```
 
 Once cloned, navigate through the directories to explore different sections like syntax, code examples, and explanations.
@@ -40,13 +40,17 @@ Legacy Systems: Some older systems still use 8086 or compatible processors, so k
 <summary>💻 Contributing</summary>
 <br />
 Contributions are welcome! Feel free to:
-<br />
 
-*Report Issues:* If you spot any mistakes or have suggestions for improvements, create an issue.
+---
 
-*Submit Pull Requests:* If you have improvements or additional content, please open a pull request.
+**Report Issues:** If you spot any mistakes or have suggestions for improvements, create an issue.
 
-*Discuss Ideas:* Join the conversation and help improve this repository for everyone.
+**Submit Pull Requests:** If you have improvements or additional content, please open a pull request.
+
+**Discuss Ideas:** Join the conversation and help improve this repository for everyone.
+
+---
+
 </details>
 
 📄 License
