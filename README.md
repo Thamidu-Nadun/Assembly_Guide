@@ -19,7 +19,7 @@ Welcome to the **Assembly Guide**! This repository is dedicated to sharing knowl
 To get started with this repository, clone it to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Assembly_Guide.git
+git clone https://github.com/Thamidu-Nadun/Assembly_Guide.git
 ```
 
 Once cloned, navigate through the directories to explore different sections like syntax, code examples, and explanations.
