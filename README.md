@@ -27,19 +27,24 @@ Once cloned, navigate through the directories to explore different sections like
 > [!NOTE]
 > This repository contains content created during my learning journey. Some of the material may contain inaccuracies. I welcome contributions, corrections, and improvements from the community! Feel free to submit issues or pull requests.
 
-💡 Why Learn 8086 Assembly?
+<details>
+<summary>💡 Why Learn 8086 Assembly?</summary>
 
-    Deep Understanding: Learning Assembly gives you insight into how a CPU works at a fundamental level.
-    Performance Optimization: Assembly programming can be used to write highly efficient code in low-resource environments.
-    Legacy Systems: Some older systems still use 8086 or compatible processors, so knowledge of this architecture can be useful for specific embedded systems or retro programming.
+Deep Understanding: Learning Assembly gives you insight into how a CPU works at a fundamental level.
+Performance Optimization: Assembly programming can be used to write highly efficient code in low-resource environments.
+Legacy Systems: Some older systems still use 8086 or compatible processors, so knowledge of this architecture can be useful for specific embedded systems or retro programming.
 
-💻 Contributing
+</details>
+
+<details>
+<summary>💻 Contributing</summary>
 
 Contributions are welcome! Feel free to:
-
-    Report Issues: If you spot any mistakes or have suggestions for improvements, create an issue.
-    Submit Pull Requests: If you have improvements or additional content, please open a pull request.
-    Discuss Ideas: Join the conversation and help improve this repository for everyone.
+    
+*Report Issues:* If you spot any mistakes or have suggestions for improvements, create an issue.
+*Submit Pull Requests:* If you have improvements or additional content, please open a pull request.
+*Discuss Ideas:* Join the conversation and help improve this repository for everyone.
+</details>
 
 📄 License
 
