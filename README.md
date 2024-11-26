@@ -40,7 +40,8 @@ Legacy Systems: Some older systems still use 8086 or compatible processors, so k
 <summary>💻 Contributing</summary>
 <br />
 Contributions are welcome! Feel free to:
-    
+
+
 *Report Issues:* If you spot any mistakes or have suggestions for improvements, create an issue.
 
 *Submit Pull Requests:* If you have improvements or additional content, please open a pull request.
